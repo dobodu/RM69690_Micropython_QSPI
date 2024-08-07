@@ -1,4 +1,4 @@
-RM69090 Driver for MicroPython
+RM690B0 Driver for MicroPython
 ------------------------------
 
 This Micropython driver is created on behalf of [nspsck](https://github.com/nspsck/RM67162_Micropython_QSPI) RM67162 driver
